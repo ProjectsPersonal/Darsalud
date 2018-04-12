@@ -5251,8 +5251,9 @@ tbody.collapse.show {
   display: block;
   padding: 0.75rem 1.25rem;
   margin-bottom: -1px;
-  background-color: #fff;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  background-color: rgba(63, 153, 191, 0.69);
+  color: #fff;
+
 }
 
 .list-group-item:first-child {
@@ -5279,8 +5280,8 @@ tbody.collapse.show {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #008cba;
-  border-color: #008cba;
+  background-color: rgba(3, 77, 175, 0.51);
+
 }
 
 .list-group-flush .list-group-item {
