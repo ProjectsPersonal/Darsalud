@@ -1,4 +1,5 @@
 # Darsalud
+<<<<<<< HEAD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+Sistema para el centro de salud Darsalud desarrollado en angular y laravel (potenciado)
+>>>>>>> 92d7a16ad3d38880408b8d8ceb1c1f995f1a0858
